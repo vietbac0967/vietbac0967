@@ -2,7 +2,8 @@
 
 **Developer**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
+
+Hello! I'm Nguyễn Việt Bắc, a passionate software engineer with a knack for developing innovative solutions and optimizing code. With a solid foundation in programming languages like Python, JavaScript, and C++, I specialize in building scalable applications and creating seamless user experiences. My journey in software development has been fueled by a continuous desire to learn and adapt to new technologies, whether it's diving into the intricacies of machine learning or mastering the latest web frameworks. I'm excited to collaborate, share knowledge, and tackle complex challenges in the ever-evolving tech landscape
 
 
 ---
