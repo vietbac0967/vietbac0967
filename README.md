@@ -3,7 +3,7 @@
 **Developer**
 
 
-Hello! I'm Nguyễn Việt Bắc, a passionate software engineer with a knack for developing innovative solutions and optimizing code. With a solid foundation in programming languages like Python, JavaScript, and C++, I specialize in building scalable applications and creating seamless user experiences. My journey in software development has been fueled by a continuous desire to learn and adapt to new technologies, whether it's diving into the intricacies of machine learning or mastering the latest web frameworks. I'm excited to collaborate, share knowledge, and tackle complex challenges in the ever-evolving tech landscape
+Hello! I'm Nguyễn Việt Bắc, a passionate software engineer with a knack for developing innovative solutions and optimizing code. With a solid foundation in programming languages like Java, and JavaScript. I specialize in building scalable applications and creating seamless user experiences. My journey in software development has been fueled by a continuous desire to learn and adapt to new technologies, whether it's diving into the intricacies of machine learning or mastering the latest web frameworks. I'm excited to collaborate, share knowledge, and tackle complex challenges in the ever-evolving tech landscape
 
 
 ---
